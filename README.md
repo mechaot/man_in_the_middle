@@ -16,3 +16,6 @@ Keep "localhost" setting at "0.0.0.0" listening to all interfaces for Producer; 
 Works well for HTTP traffic sniffing and troubleshooting (especially debugging http-headers)
 
 
+## Requirements
+
+Should run on any Pyhton 3.6+ and only standard libraries installed. Tested with Windows and Linux.
