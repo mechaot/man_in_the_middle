@@ -18,4 +18,4 @@ Works well for HTTP traffic sniffing and troubleshooting (especially debugging h
 
 ## Requirements
 
-Should run on any Pyhton 3.6+ and only standard libraries installed. Tested with Windows and Linux.
+Should run on any Python 3.6+ and only standard libraries installed. Tested with Windows and Linux.
