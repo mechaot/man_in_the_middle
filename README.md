@@ -2,9 +2,9 @@
 A really small and dumb man in the middle watcher for network traffic. Helps with debugging.
 
 ```
-Producer  <-->   man_in_the_middle <--> Server
+Producer      <-->   man_in_the_middle               <-->  Server
 
-                 dev_machine_ip:localport              remotehost:remoteport
+                     dev_machine_ip:localport              remotehost:remoteport
 ```
 
 Producer (data source) connects to "localport" on the developer machine (not to the original data sink/server any more)
